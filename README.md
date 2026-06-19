@@ -5,7 +5,10 @@
   <img src="./src/assets/logo.png" width="50%" />
 </div>
 
+---
+
 ### [Share Your Recipe! 사용해보기](https://hyunbin24.github.io/ShareYourRecipe/)
+### [Share Your Recipe! 시연 영상](https://naver.me/G7Ne8oY9)
 
 ---
 
